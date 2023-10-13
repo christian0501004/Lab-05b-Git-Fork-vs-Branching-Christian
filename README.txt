@@ -1,1 +1,1 @@
-Read between the lines for hidden meaning.
+This project is to practice git forking and branching with pull request.
